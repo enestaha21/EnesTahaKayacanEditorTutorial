@@ -12,7 +12,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
+  companyName: Tapates
   productName: EnesTahaKayacanEditorTutorial_V2
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
@@ -297,7 +297,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 0}
+      m_Icon: {fileID: 2800000, guid: 9b4098af026277942bea5c8d02b420fb, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0
@@ -867,8 +867,8 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: EnesTahaKayacanEditorTutorial_V2
-  metroPackageVersion: 
+  metroPackageName: EnesTahaKayacanEditorTutorialV2
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -876,7 +876,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: EnesTahaKayacanEditorTutorial_V2
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: EnesTahaKayacanEditorTutorial_V2
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
